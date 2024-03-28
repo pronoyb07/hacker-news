@@ -51,7 +51,7 @@ const initialState = {
 
                                             const getPrevPage = () => {
                                                     dispatch({
-                                                        type: " PREV PAGE",
+                                                        type: "PREV PAGE",
                                                     });
                                                 };
 
